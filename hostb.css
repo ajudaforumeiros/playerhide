@@ -1,0 +1,13 @@
+/*
+///////////////// USO PUBLICO - ESTILO DE PLAYER //////////////
+///////////////// @Virus -> Ajuda.forumeiros //////////////////
+# Version 0.1 BETA /
+*/
+#SCMYoutube, #player, #playerW {
+  display:none;
+  visibility: hidden;
+  position: absolute;
+}
+ #contentW {
+   top: 0!important;
+}
